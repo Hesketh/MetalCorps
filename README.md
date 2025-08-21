@@ -7,7 +7,7 @@ Metal Corps is a Bullet Hell Twin Stick shooter developed in the Game Developmen
 ![Screenshot](https://raw.githubusercontent.com/Hesketh/MetalCorps/master/screenshots.png)
 
 ## Video Trailer
-A requirement of the module was that a video gameplay trailer was put together. This was completed by one of our key artists Paul Brady. [You can view this gameplay trailer here!](https://www.youtube.com/watch?v=qaCyysugXlc)
+A requirement of the module was that a video gameplay trailer was put together. This was completed by one of our key artists Paul Brady. [You can view this gameplay trailer here!](https://www.youtube.com/watch?v=RfPjkwtNHB0)
 
 ## Credits
 ### Programming Department
